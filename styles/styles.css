@@ -1,0 +1,9 @@
+/* MAIN STYLES FOR "tavern-viewer-htmx" */
+
+body {
+    padding: 3em;
+    margin: 1em;
+    background-color:bisque;
+    display: flex;
+    flex-direction: column;
+}
